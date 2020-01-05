@@ -6,3 +6,7 @@ int main(){
 }
 //分支开发
 int add(){}
+//修改bug
+bool modify(){
+}
+

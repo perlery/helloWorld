@@ -1,1 +1,4 @@
 settings.poperties
+*.b
+/*/index.html
+/webapp
